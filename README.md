@@ -4,11 +4,12 @@ This repository contains the Java implementation and notes of the algorithms in 
 ## Table of Contents
 1. ### Fundamental Mathematics for Competitive Programming
     1. Sums and Progression
-    2. Set Theory
-    3. Logic, Functions, and Logarithms
-    4. Number Theory
-    5. Combinatorics
-    6. Matrices
-    7. Probability
-    8. Game Theory
-    9. Geometry
+        1. [Arithmetic Progression](https://ncert.nic.in/textbook/pdf/jemh105.pdf)
+    3. Set Theory
+    4. Logic, Functions, and Logarithms
+    5. Number Theory
+    6. Combinatorics
+    7. Matrices
+    8. Probability
+    9. Game Theory
+    10. Geometry
