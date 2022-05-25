@@ -5,6 +5,7 @@ This repository contains the Java implementation and notes of the algorithms in 
 1. ### Fundamental Mathematics for Competitive Programming
     1. Sums and Progression
         1. [Arithmetic Progression](https://ncert.nic.in/textbook/pdf/jemh105.pdf)
+        2. [Geometric Progression](https://ncert.nic.in/ncerts/l/kemh109.pdf)
     3. Set Theory
     4. Logic, Functions, and Logarithms
     5. Number Theory
